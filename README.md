@@ -35,4 +35,4 @@ Feel free to open issues or submit pull requests. Contributions are welcome!
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions, please contact [Your Email].
+For any questions, please contact devvashisth0007@gmail.com.
