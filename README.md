@@ -31,11 +31,11 @@ This project uses machine learning, computer vision, and deep learning to create
 ## Contributing
 Feel free to open issues or submit pull requests. Contributions are welcome!
 
-### Note
-Few large files are missing, link to those will be provided soon
-
 ## License
 This project is licensed under the MIT License.
 
 ## Contact
 For any questions, please contact devvashisth0007@gmail.com.
+
+## Note
+Few large files are missing, link to those will be provided soon
